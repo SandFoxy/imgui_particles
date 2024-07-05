@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/SandFoxy/imgui_particles">
-    <img src="hello_particles.png" alt="Hello" width="600" height="300">
+    <img src="hello.png" alt="Hello" width="600" height="300">
   </a>
   <br>
   <br>
