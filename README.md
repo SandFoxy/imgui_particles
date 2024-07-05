@@ -21,7 +21,7 @@ Simplest implementation of particles ImGui which does not use a lot of resources
 > The code was written in an hour so expect bugs. If you find any, I'll be glad to hear about them in Issues
 
 Usage exemple:
-```
+```cpp
 void Menu(){
         ImGui::SetNextWindowSize({ 600,600 });
         ImGui::Begin("Particles", nullptr, ImGuiWindowFlags_NoDecoration);
