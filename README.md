@@ -17,12 +17,10 @@ Simplest implementation of particles ImGui which does not use a lot of resources
 > All functions must be called in the window to work correctly. 
 > The  function SHOUD be called in the window to create the initial particles.
 
-
-> [!IMPORTANT]
-> Features:\n
-> Basic Particles System ✅\n
-> Killer-Mouse System ✅\n
-> Lines Warping 🕙\n
+## Features:
+> Basic Particles System ✅
+> Killer-Mouse System ✅
+> Lines Warping 🕙
 
 Usage exemple:
 ```cpp
