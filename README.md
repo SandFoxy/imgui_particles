@@ -19,10 +19,10 @@ Simplest implementation of particles ImGui which does not use a lot of resources
 
 
 > [!IMPORTANT]
-> Features:
-> Basic Particles System ✅
-> Killer-Mouse System ✅
-> Lines Warping 🕙
+> Features:\n
+> Basic Particles System ✅\n
+> Killer-Mouse System ✅\n
+> Lines Warping 🕙\n
 
 Usage exemple:
 ```cpp
